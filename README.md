@@ -21,3 +21,7 @@ Run the script once a week (every Monday at 19:50) :
 - Allow to choose tweet attributes to save
 - Download and save only new favorited tweets
 
+## Licence
+
+[WTFPL](http://sam.zoy.org/wtfpl/)
+
