@@ -1,6 +1,6 @@
 # Download Favorited Tweets
 
-A Ruby script to download and save all your favorited tweets in a JSON file.
+A Ruby script to download and add your new favorited tweets in a JSON file.
 
 ## Usage
 
@@ -19,7 +19,6 @@ Run the script once a week (every Monday at 19:50) :
 - Organize the script like these following scripts: https://github.com/discordianfish/download_tweets and https://github.com/klebershimabuku/twitter-favorites
 - Save tweets in multiple tweet files
 - Allow to choose tweet attributes to save
-- Download and save only new favorited tweets
 
 ## Licence
 
